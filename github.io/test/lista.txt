@@ -1,0 +1,9 @@
+{
+	"Admin": "shoyu_irezumi,Gohan_Beatbox",
+	"Mod": "dragon3oscuro,Luzbel_Star1",
+	"DJ": "
+陰そうかまるなべる陽",
+	"Dancer": "kittybodyart98",
+	"Exclusive": "LaVtuber",
+	"VIP": "West,Honeyyi,Fuexname,KorZix,« ʟᴏʟᴀ »,Karurus,Alejandro_00,Eydis VT"
+}
